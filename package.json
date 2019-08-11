@@ -1,6 +1,6 @@
 {
   "name": "vuetify2.x-datetime-picker",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "A Vuetify Date/Time Picker made from existing Vuetify Components.",
   "main": "dist/vuetify2.x-datetime-picker.ssr.js",
   "module": "dist/vuetify2.x-datetime-picker.esm.js",
